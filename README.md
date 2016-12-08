@@ -1,6 +1,6 @@
 
 
-# Metrum is a simple boilerplate theme for Hugo.
+# Metrum is a simple boilerplate theme for Hugo
 
 It's minimal, clear and seasy to extend.
 
