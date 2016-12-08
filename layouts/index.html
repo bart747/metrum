@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+
+{{ partial "navbar.html" . }}
+
+<section class="wrapper-small">
+  <h1 class=" ">{{ .Title }}</h1>  
+  <p>
+    Hello! You're using <i>Metrum</i> boilerplate theme for <i>Hugo</i>.
+  </p>
+  <p>
+    It gives you basic layouts and typography.
+    Just enough to get rolling.
+  </p>
+</section>
+
+<section  class="wrapper-small">
+  <h2>Recently on <a href="./post">Blog</a>:</h2>
+  {{ partial "postListShort.html" . }}
+</section>
+
+{{ partial "footer.html" . }}

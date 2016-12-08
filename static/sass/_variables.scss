@@ -1,0 +1,26 @@
+
+$base-font-family:      sans-serif;
+$monospace:             monospace;
+$large-font-size:       19px;
+$medium-font-size:      16px;
+$small-font-size:       14px;
+$base-line-height:      1.5;
+
+// colors
+$black:               #222;
+$white:               #fff;
+$text-color:          #383838;
+$red:                 #dd2222;
+$background-color:    #fff;
+$blue:                #2233cc;
+$purple:              #8800ff;
+$green:               #118822;
+
+$grey:                #777;
+$grey-light:            lighten($grey, 40%);
+$grey-dark:             darken($grey, 20%);
+
+// sceen sizes
+$screen-big:            1024px;
+$screen-mid:            768px;
+$screen-sml:            568px;
