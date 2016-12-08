@@ -1,4 +1,3 @@
-
 $base-font-family:      sans-serif;
 $monospace:             monospace;
 $large-font-size:       19px;
@@ -7,15 +6,14 @@ $small-font-size:       14px;
 $base-line-height:      1.5;
 
 // colors
+$text-color:          #383838;
+$background-color:    #fff;
 $black:               #222;
 $white:               #fff;
-$text-color:          #383838;
 $red:                 #dd2222;
-$background-color:    #fff;
+$green:               #118822;
 $blue:                #2233cc;
 $purple:              #8800ff;
-$green:               #118822;
-
 $grey:                #777;
 $grey-light:            lighten($grey, 40%);
 $grey-dark:             darken($grey, 20%);
