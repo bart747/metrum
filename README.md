@@ -1,4 +1,4 @@
-
+![screenshot Hugo theme](https://raw.githubusercontent.com/bart747/metrum/master/screen.png "screenshot")
 
 # Metrum is a simple boilerplate theme for Hugo
 
